@@ -1,0 +1,5 @@
+{
+  "name": "ConnectHub",
+  "description": "A full-stack social media platform with authentication, posts, real-time news, and AI-powered fact verification.",
+  "requestFramePermissions": []
+}
